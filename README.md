@@ -18,6 +18,7 @@ tensorboard --logdir [PATH]
 ```
 
 ## Todo
-- [ ] Custom Environment ([reference](https://docs.ray.io/en/latest/rllib/rllib-env.html#configuring-environments))
+- [x] Custom Environment ([reference](https://docs.ray.io/en/latest/rllib/rllib-env.html#configuring-environments))
+- [ ] Custom Environment - MuJoCo
 - [ ] Custom Policy ([reference](https://docs.ray.io/en/latest/rllib/rllib-concepts.html))
 - [ ] Imitation Learning ([reference1](https://github.com/ray-project/ray/blob/master/rllib/examples/custom_model_loss_and_metrics.py), [reference2](https://docs.ray.io/en/latest/rllib/rllib-offline.html#input-pipeline-for-supervised-losses))
